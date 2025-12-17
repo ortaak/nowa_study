@@ -21,11 +21,11 @@ Bu proje, LGS (Liselere Geçiş Sistemi) hazırlık sürecindeki öğrencilerin 
 
 | Dashboard | İstatistikler |
 |-----------|---------------|
-| ![Dashboard Önizleme](https://via.placeholder.com/600x400?text=Dashboard+Ekran+Goruntusu) | ![İstatistikler](https://via.placeholder.com/600x400?text=Istatistik+Sayfasi) |
+| ![Dashboard Önizleme](https://github.com/ortaak/nowa_study/blob/main/assets/dashboard.png) | ![Dashboard Önizleme](https://github.com/ortaak/nowa_study/blob/main/assets/dashboard-2.png) | ![İstatistikler](https://github.com/ortaak/nowa_study/blob/main/assets/istatistikler.png) |
 
 | Sınav Analizi | Hedef Takibi |
 |---------------|--------------|
-| ![Sınav Analizi](https://via.placeholder.com/600x400?text=Sinav+Analizi) | ![Hedef Takibi](https://via.placeholder.com/600x400?text=Hedef+Takibi) |
+| ![Sınav Analizi](https://github.com/ortaak/nowa_study/blob/main/assets/%C3%87Al%C4%B1%C5%9Fma%20Kay%C4%B1tlar%C4%B1.png) | ![Hedef Takibi](https://github.com/ortaak/nowa_study/blob/main/assets/Planlar.png) |
 
 ---
 
